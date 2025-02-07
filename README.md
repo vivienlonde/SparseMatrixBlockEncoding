@@ -1,1 +1,1 @@
-This notebook showcases the block-encoding of a sparse matrix.
+This notebook showcases the qualtran implementation of the block-encoding of a sparse matrix.
